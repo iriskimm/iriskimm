@@ -2,7 +2,7 @@
 I'm Iris, a second-year Mathematics student at the University of Waterloo. 
 
 - 🔭 I’m currently working as a Fullstack Developer Intern at Opentext. 
-- 🌱 I’m currently learning data analysis and data visualization.
+- 🌱 I’m currently learning data analysis and data science.
 - 📫 Reach out to me at y372kim@uwaterloo.ca
 
 <!--
