@@ -1,8 +1,10 @@
 ### Hi there 👋 
-I'm Iris, a second-year Mathematics student at the University of Waterloo. 
+I'm Iris, a third-year Mathematics student at the University of Waterloo. 
 
-- 🌱 I'm currently working as a **Data Governance Intern** at **QuadReal**. 
-- 🤔 I’m passionate about building data solutions to enable decisions and solve problems. 
+- 🌱 Currently studying Statistics and Computer Science.
+- 💼 Previously interned as a full-stack developer, product manager, and data scientist.
+- 🤔 Passionate about building data-driven solutions to empower decision-making and solve meaningful problems.
+- 🌟 Driven by a love for learning and exploring diverse paths in technology to create positive impact.
 - 📫 Please reach out to me via [LinkedIn](https://www.linkedin.com/in/iriskimm/) or [Email](mailto:y372kim@uwaterloo.ca)
 
 <!--
